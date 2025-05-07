@@ -392,5 +392,3 @@ Students can view and download assignments of their courses just like their teac
 
 ### 6. View routine
 Students can view their class and section routine just like their admin/teachers.
-
-
